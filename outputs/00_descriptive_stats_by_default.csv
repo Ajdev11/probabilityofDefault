@@ -1,0 +1,49 @@
+,,0,1
+Liquidity ratio 2017,count,35718.0,769.0
+Liquidity ratio 2017,mean,1.376596136401814,1.0265685305591676
+Liquidity ratio 2017,std,1.0388024269117326,0.8085443102022718
+Liquidity ratio 2017,min,0.17,0.17
+Liquidity ratio 2017,25%,0.75,0.57
+Liquidity ratio 2017,50%,1.08,0.86
+Liquidity ratio 2017,75%,1.63,1.2
+Liquidity ratio 2017,max,6.132799999999988,6.132799999999988
+Solvency ratio (%) % 2017,count,35718.0,769.0
+Solvency ratio (%) % 2017,mean,31.296739369505573,18.340421586475944
+Solvency ratio (%) % 2017,std,21.115617676266755,14.952077383939486
+Solvency ratio (%) % 2017,min,0.96,0.96
+Solvency ratio (%) % 2017,25%,13.9,7.04
+Solvency ratio (%) % 2017,50%,27.3,14.88
+Solvency ratio (%) % 2017,75%,45.69,25.71
+Solvency ratio (%) % 2017,max,84.5114,84.5114
+Return on equity (ROE) (%) % 2017,count,35718.0,769.0
+Return on equity (ROE) (%) % 2017,mean,8.197338999944007,-0.14862730819245776
+Return on equity (ROE) (%) % 2017,std,16.369843352658492,24.063080192912864
+Return on equity (ROE) (%) % 2017,min,-66.6248,-66.6248
+Return on equity (ROE) (%) % 2017,25%,1.69,-4.9
+Return on equity (ROE) (%) % 2017,50%,7.25,1.86
+Return on equity (ROE) (%) % 2017,75%,15.5,10.27
+Return on equity (ROE) (%) % 2017,max,58.612799999999986,58.612799999999986
+Debt/Equity ratio % 2017,count,35718.0,769.0
+Debt/Equity ratio % 2017,mean,1.598762383112156,3.03622522756827
+Debt/Equity ratio % 2017,std,2.917934593130462,4.362246589277687
+Debt/Equity ratio % 2017,min,0.0,0.0
+Debt/Equity ratio % 2017,25%,0.09,0.51
+Debt/Equity ratio % 2017,50%,0.63,1.49
+Debt/Equity ratio % 2017,75%,1.78,3.28
+Debt/Equity ratio % 2017,max,19.85279999999999,19.85279999999999
+Return on investment (ROI) (%) % 2017,count,35718.0,769.0
+Return on investment (ROI) (%) % 2017,mean,8.882458558709894,4.242277243172952
+Return on investment (ROI) (%) % 2017,std,9.066636397652918,9.60679163657988
+Return on investment (ROI) (%) % 2017,min,-19.4956,-19.4956
+Return on investment (ROI) (%) % 2017,25%,3.28,0.06
+Return on investment (ROI) (%) % 2017,50%,7.68,4.36
+Return on investment (ROI) (%) % 2017,75%,14.59,9.32
+Return on investment (ROI) (%) % 2017,max,28.9,28.9
+EBITDA/Vendite (%) % 2017,count,35718.0,769.0
+EBITDA/Vendite (%) % 2017,mean,8.091018315695168,6.03248088426528
+EBITDA/Vendite (%) % 2017,std,7.502037270509245,7.9860205537917714
+EBITDA/Vendite (%) % 2017,min,-7.8914,-7.8914
+EBITDA/Vendite (%) % 2017,25%,3.31,1.82
+EBITDA/Vendite (%) % 2017,50%,6.29,4.66
+EBITDA/Vendite (%) % 2017,75%,10.87,8.57
+EBITDA/Vendite (%) % 2017,max,38.8914,38.8914
