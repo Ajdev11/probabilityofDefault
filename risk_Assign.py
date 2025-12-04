@@ -13,7 +13,7 @@ from matplotlib.backends.backend_pdf import PdfPages
 
 # 1. Load the dataset
 # We use the filename you provided. 
-# Note: 'na_values' helps pandas understand that 'n.s.' or 'n.a.' means missing data.
+
 file_name = "Ogunsemore_Khalil_637766_.csv.xlsx"  # default; can be overridden via CLI
 
 # Resolve input path: CLI arg > default > auto-detect
