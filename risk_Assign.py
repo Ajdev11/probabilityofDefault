@@ -1,5 +1,5 @@
 # Phase 1: Setup and Data Loading
-# First, we import the necessary libraries and load your dataset. We also handle the "European" number format (commas instead of dots) during this process.
+# First, we import the necessary libraries and load your dataset. We also handle the "European" number format 
 
 
 import pandas as pd
