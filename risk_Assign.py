@@ -6,9 +6,7 @@ import os
 import sys
 import textwrap
 from matplotlib.backends.backend_pdf import PdfPages
-
-# 1. Load the dataset
-# We use the filename you provided. 
+ 
 
 file_name = "Ogunsemore_Khalil_637766_.csv.xlsx"  # default; can be overridden via CLI
 
