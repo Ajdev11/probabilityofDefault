@@ -8,7 +8,7 @@ import textwrap
 from matplotlib.backends.backend_pdf import PdfPages
  
 
-file_name = "Ogunsemore_Khalil_637766_.csv.xlsx"  # default; can be overridden via CLI
+file_name = "Ogunsemore_Khalil_637766_.csv.xlsx"  
 
 input_path = sys.argv[1] if len(sys.argv) > 1 else file_name
 
