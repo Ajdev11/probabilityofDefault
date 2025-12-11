@@ -13,7 +13,7 @@ file_name = "Ogunsemore_Khalil_637766_.csv.xlsx"
 input_path = sys.argv[1] if len(sys.argv) > 1 else file_name
 
 if not os.path.isfile(input_path):
-    # Try simple auto-detect: if exactly one CSV/XLSX exists, use it
+
     candidates = [f for f in os.listdir('.') if f.lower().endswith(('.csv', '.xlsx', '.xls'))]
     if len(candidates) == 1:
         input_path = candidates[0]
