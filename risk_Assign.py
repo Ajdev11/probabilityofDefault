@@ -19,8 +19,6 @@ if not os.path.isfile(input_path):
         input_path = candidates[0]
     else:
         raise FileNotFoundError(f"File not found: {input_path}. Place the CSV/XLSX here or run: python risk_Assign.py <path_to_file>")
-
-# Read CSV or Excel appropriately
 if input_path.lower().endswith(('.xlsx', '.xls')):
     df = pd.read_excel(input_path, na_values=['n.s.', 'n.a.', 'NaN'])
 else:
