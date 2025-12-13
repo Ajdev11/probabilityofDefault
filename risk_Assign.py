@@ -32,8 +32,7 @@ else:
 output_dir = "outputs"
 os.makedirs(output_dir, exist_ok=True)
 
-# 2. Clean Financial Columns (Convert "1.234,56" to floats)
-# Select all columns that should be numeric (ending in '2017' or 'Last avail. yr')
+
 financial_cols = [col for col in df.columns if '2017' in col or 'Last avail. yr' in col]
 
 for col in financial_cols:
