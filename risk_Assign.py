@@ -54,7 +54,7 @@ print(f"Total rows: {len(df)}")
 
 # Collapse the data so we have exactly one row per company.
 
-# 1. Define Default Keywords
+
 # These terms indicate a company is in financial distress
 default_keywords = [
     'bankruptcy', 'fallimento', 
