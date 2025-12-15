@@ -50,7 +50,7 @@ print(f"Total rows: {len(df)}")
 
 # Identify which companies failed (Default = 1) based on their legal status.
 
-# Collapse the data so we have exactly one row per company.
+
 
 
 # These terms indicate a company is in financial distress
