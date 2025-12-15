@@ -47,8 +47,6 @@ print(f"Total rows: {len(df)}")
 
 
 
-# Phase 2: Defining "Default" & Aggregating
-# Your data currently has multiple rows for some companies (one for each legal event). We need to:
 
 # Identify which companies failed (Default = 1) based on their legal status.
 
