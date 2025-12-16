@@ -75,9 +75,7 @@ def is_default(status):
 # Apply the function to create the target variable
 df['Default'] = df['Procedure/cessazione'].apply(is_default)
 
-# 2. Aggregation (One row per company)
-# Logic: If a company has ANY default event, its max status is 1.
-# For financial variables, we take the 'first' value (as they are constant for the year 2017).
+
 agg_rules = {
     'Default': 'max',
     'Company name': 'first',
