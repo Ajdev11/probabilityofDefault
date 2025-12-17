@@ -28,7 +28,7 @@ else:
                      on_bad_lines='skip',
                      na_values=['n.s.', 'n.a.', 'NaN'])
 
-# Output directory for figures and reports
+
 output_dir = "outputs"
 os.makedirs(output_dir, exist_ok=True)
 
