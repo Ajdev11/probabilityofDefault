@@ -82,7 +82,7 @@ agg_rules = {
     'Province': 'first'
 }
 
-# Add all financial columns to the aggregation rules
+
 for col in financial_cols:
     agg_rules[col] = 'first'
 
