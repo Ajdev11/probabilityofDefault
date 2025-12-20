@@ -37,7 +37,7 @@ financial_cols = [col for col in df.columns if '2017' in col or 'Last avail. yr'
 
 for col in financial_cols:
     if df[col].dtype == 'object':
-        # Remove dots (thousands), replace comma with dot (decimal)
+       
         df[col] = df[col].astype(str).str.replace('.', '', regex=False)
         df[col] = df[col].str.replace(',', '.', regex=False)
         df[col] = pd.to_numeric(df[col], errors='coerce')
