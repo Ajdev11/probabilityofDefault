@@ -48,7 +48,6 @@ print(f"Total rows: {len(df)}")
 
 
 
-# Identify which companies failed (Default = 1) based on their legal status.
 
 
 
