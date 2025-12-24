@@ -77,7 +77,6 @@ agg_rules = {
 for col in financial_cols:
     agg_rules[col] = 'first'
 
-# Group by Tax ID to create the unique dataset
 df_clean = df.groupby('Tax code number').agg(agg_rules).reset_index()
 
 print(f"Unique Companies: {len(df_clean)}")
