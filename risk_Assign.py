@@ -45,14 +45,6 @@ for col in financial_cols:
 print("Data Loaded Successfully!")
 print(f"Total rows: {len(df)}")
 
-
-
-
-
-
-
-
-# These terms indicate a company is in financial distress
 default_keywords = [
     'bankruptcy', 'fallimento', 
     'insolvency', 'insolvenza', 
